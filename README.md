@@ -60,7 +60,7 @@ Atualmente estudo **Sistemas de Informação / Ciência da Computação**, crian
   <br><br>
 
  
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=joaovictorloewen&theme=github-dark&hide_border=false"/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shima2803&theme=github-dark&hide_border=false"/>
 
 </div>
 
