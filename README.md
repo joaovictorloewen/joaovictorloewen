@@ -1,11 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
-<body>
-    <h1 align="center">JOÃO VICTOR LOEWEN</h1>
+<h1 align="center">JOÃO VICTOR LOEWEN</h1>
 
 <p align="center">
   Estudante de Ciência da Computação | Desenvolvedor FullStack Java
@@ -79,6 +72,3 @@ Conseguir minha primeira oportunidade na área de TI e evoluir constantemente co
 ---
 
 <p align="center"><i>"Sempre em busca de aprender, evoluir e transformar ideias em código."</i></p>
-
-</body>
-</html>
