@@ -12,7 +12,7 @@
   Desenvolvedor | Estudante de Sistemas de Informação / Ciência da Computação
 </p>
 
-<!-- Contador de visitas centralizado -->
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=joaoloewen&color=orange&style=for-the-badge"/>
 </p>
@@ -50,18 +50,17 @@ Atualmente estudo **Sistemas de Informação / Ciência da Computação**, crian
 <div align="center">
 
   <br>
-
-  <!-- Linguagens mais usadas -->
+  
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovictorloewen&layout=compact&theme=dark&hide_border=false"/>
 
   <br><br>
 
-  <!-- Trophies -->
+
   <img src="https://github-profile-trophy.vercel.app/?username=joaovictorloewen&theme=darkhub&row=1&column=6"/>
 
   <br><br>
 
-  <!-- Activity Graph -->
+ 
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=joaovictorloewen&theme=github-dark&hide_border=false"/>
 
 </div>
