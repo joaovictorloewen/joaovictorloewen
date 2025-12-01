@@ -51,10 +51,9 @@ Atualmente estudo **Sistemas de Informação / Ciência da Computação**, crian
 
   <br>
   
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovictorloewen&layout=compact&theme=dark&hide_border=false"/>
-
+ <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVictorLoewen&layout=compact&theme=dark&hide_border=false"/>
+ 
   <br><br>
-
 
   <img src="https://github-profile-trophy.vercel.app/?username=joaovictorloewen&theme=darkhub&row=1&column=6"/>
 
