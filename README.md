@@ -36,7 +36,7 @@ Atualmente estudo **Sistemas de Informação / Ciência da Computação**, crian
 ## 🛠 Tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,react,nodejs,spring,mysql,git" height="120"/>
+  <img src="https://skillicons.dev/icons?i=java,js,html,css,react,nodejs,spring,mysql,git" height="120"/>
 </p>
 
 <p align="center">
