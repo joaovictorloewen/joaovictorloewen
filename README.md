@@ -14,7 +14,7 @@
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=joaoloewen&color=orange&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=joaovictorloewen&color=orange&style=for-the-badge"/>
 </p>
 
 ---
@@ -101,7 +101,7 @@ Atualmente estudo **Sistemas de Informação / Ciência da Computação**, crian
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=joaoloewen&color=orange&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=joaovictorloewen&color=orange&style=for-the-badge"/>
 </p>
 
 ---
