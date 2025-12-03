@@ -51,7 +51,7 @@ Atualmente estudo **Sistemas de Informação / Ciência da Computação**, crian
 
   <br>
   
- <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoVictorLoewen&layout=compact&theme=dark&hide_border=false"/>
+ <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovictorloewen&layout=compact&theme=dark&hide_border=false"/>
  
   <br><br>
 
@@ -138,7 +138,7 @@ I am currently studying **Information Systems / Computer Science**, building pro
 
   <br>
   
- <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoVictorLoewen&layout=compact&theme=dark&hide_border=false"/>
+ <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovictorloewen&layout=compact&theme=dark&hide_border=false"/>
  
   <br><br>
 
