@@ -26,9 +26,9 @@
 
 <h2>🚀 Projetos em Destaque</h2>
 
-🔹 <b><a href="https://github.com/joaovictorloewen">Meus Projetos</a></b> — Repositórios diversos em Java, JS, HTML, CSS e mais.  
-🔹 <b><a href="#">Projetos Acadêmicos</a></b> — Trabalhos desenvolvidos para a faculdade (FURB).  
-🔹 <b><a href="#">Projetos Pessoais</a></b> — Aplicações próprias e experimentos.  
+🔹 <b><a href="https://github.com/joaovictorloewen/FURB">Meus Projetos</a></b> — Repositórios diversos em Java, JS, HTML, CSS e mais.  
+🔹 <b><a href="https://github.com/joaovictorloewen/Trabalho_Final_POO">Trabalho_Final_POO</a></b> — Trabalhos desenvolvidos para a faculdade (FURB).  
+🔹 <b><a href="https://github.com/joaovictorloewen/WattWorks"> WattWorks</a></b> — Aplicações próprias e experimentos.  
 
 ---
 
