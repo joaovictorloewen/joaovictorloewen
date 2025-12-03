@@ -5,7 +5,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-
+<p align="center">
+  🇧🇷 <b>Português</b> | 🇺🇸 <a href="#english-version">English Version</a>
+</p>
 <h1 align="center">JOÃO VICTOR LOEWEN</h1>
 
 <p align="center">
@@ -85,7 +87,7 @@ Atualmente estudo **Sistemas de Informação / Ciência da Computação**, crian
 
 </body>
 </html>
-# US English Version
+#english-version
 <!DOCTYPE html>
 <html lang="en">
 <head>
