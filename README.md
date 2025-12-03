@@ -112,9 +112,9 @@ Sou estudante de <b>Sistemas de Informação / Ciência da Computação</b>, cri
 
 <h2>🚀 Featured Projects</h2>
 
-🔹 <b><a href="https://github.com/joaovictorloewen">My Projects</a></b> — Repositories in Java, JS, HTML, CSS, etc.  
-🔹 <b><a href="#">Academic Projects</a></b> — College-related development (FURB).  
-🔹 <b><a href="#">Personal Projects</a></b> — Self-made applications and experiments.
+🔹 <a href="https://github.com/joaovictorloewen/FURB">My Projects</a> — Various repositories related to college.
+🔹 <a href="https://github.com/joaovictorloewen/Trabalho_Final_POO">Final_OOP_Project</a> — Final project developed for college in OOP (FURB).
+🔹 <a href="https://github.com/joaovictorloewen/WattWorks">WattWorks</a> — Final project developed for the end of the Entra21 program.
 
 ---
 
