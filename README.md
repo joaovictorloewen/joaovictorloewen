@@ -68,10 +68,6 @@ Sou estudante de <b>Sistemas de Informação / Ciência da Computação</b>, cri
 
   <br><br>
 
-  <img src="https://github-profile-trophy.vercel.app/?username=joaovictorloewen&theme=darkhub&row=1&column=6"/>
-
-  <br><br>
-
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=joaovictorloewen&theme=github-dark&hide_border=false"/>
 
 </div>
@@ -152,10 +148,6 @@ I'm a <b>Information Systems / Computer Science student</b>, building projects t
 
   <img height="160em" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=joaovictorloewen&layout=compact&theme=dracula&hide_border=false"/>
  
-  <br><br>
-
-  <img src="https://github-profile-trophy.vercel.app/?username=joaovictorloewen&theme=darkhub&row=1&column=6"/>
-
   <br><br>
 
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=joaovictorloewen&theme=github-dark&hide_border=false"/>
