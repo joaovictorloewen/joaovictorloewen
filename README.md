@@ -49,7 +49,7 @@ Sou estudante de <b>Sistemas de Informação / Ciência da Computação</b>, cri
 <h2>🛠 Tecnologias</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,html,css,react,nodejs,spring,mysql,git" height="120"/>
+  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,react,nodejs,spring,mysql,git" height="120"/>
 </p>
 
 <p align="center">
@@ -131,7 +131,7 @@ I'm a <b>Information Systems / Computer Science student</b>, building projects t
 <h2>🛠 Technologies</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,html,css,react,nodejs,spring,mysql,git" height="120"/>
+  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,react,nodejs,spring,mysql,git" height="120"/>
 </p>
 
 <p align="center">
