@@ -48,7 +48,7 @@ Platform focused on connecting talents and opportunities with modern web technol
 
 <td width="50%">
 
-### ⚡ WattWorks
+### ⚡ WW
 **Stack:** Java · JSP · Servlets · OCR
 
 System focused on energy bill processing with OCR extraction and intelligent data handling.
